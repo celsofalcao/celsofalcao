@@ -1,6 +1,6 @@
 # Olá, Meu nome é Celso Falcão!
 
-🔒 Especialista em Segurança da Informação | Protegendo dados e fortalecendo organizações 🔒
+🔒 Especialista em Segurança da Informação
 
 <a href="www.linkedin.com/in/celsofalcao"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 

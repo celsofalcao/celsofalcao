@@ -6,7 +6,7 @@
 
 Apaixonado por tecnologia dedicado a garantir a segurança cibernética das organizações em um mundo cada vez mais online.
 
-Durante minha jornada de 20 anos em TI, nutri uma paixão por Cybersecurity onde pude desenvolver habilidades sólidas em identificar e mitigar ameaças cibernéticas, implementar soluções de proteção de dados e garantir a conformidade com os mais rigorosos padrões de segurança, nos últimos 10 anos.
+Durante minha jornada de 20 anos em TI, nutri uma paixão por Cybersecurity onde pude desenvolver habilidades sólidas em identificar e mitigar ameaças cibernéticas, implementar soluções de proteção de dados e garantir a conformidade com os mais rigorosos padrões de segurança.
 
 ## Habilidades
 

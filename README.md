@@ -12,8 +12,8 @@ Durante minha jornada de 20 anos em TI, nutri uma paixão por Cybersecurity onde
 
 | Competência                                   | Projeto                    |
 |-----------------------------------------------|----------------------------|
-| Implementação de SIM e Análise de Logs          | <a href="https://github.com/celsofalcao/insightidr">InsightIDR</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Implementação de SIEM e Análise de Logs         | <a href="https://github.com/celsofalcao/insightidr">InsightIDR</a>|
+| Implementação e Gestão de Vulnerabilidades      | <a href="https://github.com/celsofalcao/insightvm">InsightVM</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|

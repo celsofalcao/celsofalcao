@@ -1,4 +1,4 @@
-# Olá, Meu nome é Celso Falcão!
+# Olá, meu nome é Celso Falcão!
 
 🔒 Especialista em Segurança da Informação
 

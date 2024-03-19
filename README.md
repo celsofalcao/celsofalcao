@@ -81,4 +81,4 @@ Durante minha jornada de 20 anos em TI, nutri uma paixão por Cybersecurity onde
 ## Projetos
 - <a href="https://github.com/celsofalcao/insightidr">InsightIDR</a>
 - <a href="https://github.com/celsofalcao/insightvm">InsightVM</a>
-<a href="https://github.com/celsofalcao/crowdstrike">Crowdstrike</a>
+- <a href="https://github.com/celsofalcao/crowdstrike">Crowdstrike</a>

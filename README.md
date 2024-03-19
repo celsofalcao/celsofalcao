@@ -12,8 +12,11 @@ Durante minha jornada de 20 anos em TI, nutri uma paixão por Cybersecurity onde
 
 | Competência                                   | Projeto                    |
 |-----------------------------------------------|----------------------------|
-| Implementação de SIEM e Análise de Logs         | <a href="https://github.com/celsofalcao/insightidr">InsightIDR</a>|
-| Implementação e Gestão de Vulnerabilidades      | <a href="https://github.com/celsofalcao/insightvm">InsightVM</a>|
+| Implementação de SIEM e Resposta a Incidentes  | <a href="https://github.com/celsofalcao/insightidr">InsightIDR</a>|
+| Implementação e Gestão de Vulnerabilidades     | <a href="https://github.com/celsofalcao/insightvm">InsightVM</a>|
+| Implementação de Scan de Vulnerabilidades      | <a href="https://github.com/celsofalcao">Qualys</a>|
+| Implementação de EDR e Resposta a Incidentes   | <a href="https://github.com/celsofalcao">Crowdstrike</a>|
+| Implementação de Endpoint Protection           | <a href="https://github.com/celsofalcao">SEP</a>|
 
 
 ## Tecnologias

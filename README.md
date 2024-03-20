@@ -12,11 +12,11 @@ Durante minha jornada de 20 anos em TI, nutri uma paixão por Cybersecurity onde
 
 | Competência                                   | Projeto                    |
 |-----------------------------------------------|----------------------------|
-| Implementação de SIEM e Resposta a Incidentes  | <a href="https://github.com/celsofalcao/insightidr"><img src="https://img.shields.io/badge/Rapid7-InsightIDR-blue?logo=rapid7&style=for-the-badge"></a>|
-| Implementação e Gestão de Vulnerabilidades     | <a href="https://github.com/celsofalcao/insightvm"><img src="https://img.shields.io/badge/Rapid7-InsightVM-blue?logo=rapid7&style=for-the-badge"></a>|
-| Implementação de EDR e Resposta a Incidentes   | <a href="https://github.com/celsofalcao/crowdstrike"><img src="https://img.shields.io/badge/Crowdstrike-Falcon-red?logo=crowdstrike&style=for-the-badge"></a>|
-| Implementação de Scan de Vulnerabilidades      | <a href="https://github.com/celsofalcao"><img src="https://img.shields.io/badge/Qualys_VMDR-005571?logo=qualys&style=for-the-badge"></a>|
-| Implementação de Endpoint Protection           | <a href="https://github.com/celsofalcao">SEP</a>|
+| Implementação de SIEM e Resposta a Incidentes  | <a href="https://github.com/celsofalcao/insightidr"><img src="https://img.shields.io/badge/InsightIDR-blue?logo=rapid7&style=for-the-badge"></a>|
+| Implementação e Gestão de Vulnerabilidades     | <a href="https://github.com/celsofalcao/insightvm"><img src="https://img.shields.io/badge/InsightVM-blue?logo=rapid7&style=for-the-badge"></a>|
+| Implementação de EDR e Resposta a Incidentes   | <a href="https://github.com/celsofalcao/crowdstrike"><img src="https://img.shields.io/badge/Crowdstrike-red?logo=crowdstrike&style=for-the-badge"></a>|
+| Implementação de Scan de Vulnerabilidades      | <a href="https://github.com/celsofalcao"><img src="https://img.shields.io/badge/Qualys-005571?logo=qualys&style=for-the-badge"></a>|
+| Implementação de Endpoint Protection           | <a href="https://github.com/celsofalcao"><img src="https://img.shields.io/badge/SEP-blue?logo=symantec&style=for-the-badge"></a>|
 
 
 ## Tecnologias
@@ -41,6 +41,7 @@ Durante minha jornada de 20 anos em TI, nutri uma paixão por Cybersecurity onde
     <img src="https://img.shields.io/badge/CrowdStrike-red?logo=crowdstrike&style=for-the-badge" />
     <img src="https://img.shields.io/badge/Cylance-black?logo=cylance&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-Velociraptor-006400?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/SEP-blue?logo=symantec&style=for-the-badge" />
 </div>
 
 ### ZTNA

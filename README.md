@@ -21,18 +21,18 @@ Durante minha jornada de 20 anos em TI, nutri uma paixão por Cybersecurity onde
 
 
 ## Tecnologias
-### Scan de Vulnerabilidades
-<div>
-    <img src="https://img.shields.io/badge/Rapid7-InsightVM-blue?logo=rapid7&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Tenable-006400?logo=tenable&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Qualys_VMDR-005571?logo=qualys&style=for-the-badge" />
-</div>
-
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/Rapid7-InsightIDR-blue?logo=rapid7&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-QRadar-blue?logo=ibm&style=for-the-badge" />
+</div>
+
+### Scan de Vulnerabilidades
+<div>
+    <img src="https://img.shields.io/badge/Rapid7-InsightVM-blue?logo=rapid7&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Tenable-006400?logo=tenable&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Qualys_VMDR-005571?logo=qualys&style=for-the-badge" />
 </div>
 
 ### Endpoint

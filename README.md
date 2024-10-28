@@ -69,7 +69,7 @@ Durante minha jornada de 20 anos em TI, nutri uma paixão por Cybersecurity onde
 
 ## Certificações
 <div>
-    <img src="https://img.shields.io/badge/EC--Council%20Certified%20Incident%20Handler-red?logo=ec" />
+    <img src="https://img.shields.io/badge/-EC--Council%20Certified%20Incident%20Handler-red?style=for-the-badge&logo=ec-council&logoColor=white" />
     <img src="https://img.shields.io/badge/CySA%2B-blue?logo=comptia&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     <img src="https://img.shields.io/badge/CSAP-blue?logo=comptia&style=for-the-badge" />
